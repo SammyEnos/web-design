@@ -1,0 +1,798 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pr",
+				"progress"
+			],
+			[
+				"p",
+				"program-chart"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"loa",
+				"loading-1"
+			],
+			[
+				"program-",
+				"program-left"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"bordr",
+				"border-bottom-left-radius"
+			],
+			[
+				"bordertop",
+				"border-top-left-radius"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"border-top-",
+				"border-top-left-radius"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"space-",
+				"space-around"
+			],
+			[
+				"stroke",
+				"stroke"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"strok",
+				"stroke-dasharray"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"b",
+				"border-radius"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"get",
+				"getAttribute"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"st",
+				"stroke-linecap"
+			],
+			[
+				"eas",
+				"ease-in"
+			],
+			[
+				"transform",
+				"transform-origin"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"aut",
+				"auto-fit"
+			],
+			[
+				"gr",
+				"grid-template-columns"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"MAR",
+				"margin-right"
+			],
+			[
+				"MA",
+				"margin-left"
+			],
+			[
+				"mR",
+				"margin-left"
+			],
+			[
+				"MARGIN",
+				"margin-left"
+			],
+			[
+				"str",
+				"stroke-dasharray"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"ci",
+				"circle"
+			],
+			[
+				"grid",
+				"grid-gap"
+			],
+			[
+				"marig",
+				"margin"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"cir",
+				"circle"
+			],
+			[
+				"spa",
+				"space-evenly"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"flex-",
+				"flex-wrap"
+			],
+			[
+				"gri",
+				"grid-template-columns"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"al",
+				"align-content"
+			],
+			[
+				"background",
+				"background"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"s",
+				"stroke-dasharray"
+			],
+			[
+				"in",
+				"inset"
+			],
+			[
+				"top",
+				"top"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"grid-",
+				"grid-template-columns"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"myS",
+				"mySkills"
+			],
+			[
+				"sp",
+				"space-around"
+			],
+			[
+				"justif",
+				"justify-content"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"stro",
+				"stroke-linecap"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"a",
+				"space-around"
+			],
+			[
+				"fa-",
+				"fa-twitter"
+			],
+			[
+				"grey",
+				"darkgrey"
+			],
+			[
+				"backr",
+				"background"
+			],
+			[
+				"ani",
+				"animate-positive"
+			],
+			[
+				"let",
+				"left"
+			],
+			[
+				"dark",
+				"darkorchid"
+			],
+			[
+				"purpl",
+				"rebeccapurple"
+			],
+			[
+				"pu",
+				"peru"
+			],
+			[
+				"pro",
+				"progress"
+			],
+			[
+				"prog",
+				"progress"
+			],
+			[
+				"so",
+				"socila-items"
+			],
+			[
+				"sh",
+				"shape-image-threshold"
+			],
+			[
+				"o",
+				"!important"
+			],
+			[
+				"progre",
+				"progress"
+			],
+			[
+				"m",
+				"min-height"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"bla",
+				"blanchedalmond"
+			],
+			[
+				"dar",
+				"darkgrey"
+			],
+			[
+				"purp",
+				"mediumpurple"
+			],
+			[
+				"pur",
+				"rebeccapurple"
+			],
+			[
+				"line",
+				"linear-gradient()"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"Pro",
+				"profile"
+			],
+			[
+				"sha",
+				"box-shadow"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"hr",
+				"header"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"backgroun",
+				"background-size"
+			],
+			[
+				"da",
+				"darkblue"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"PRO",
+				"progress"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"ban",
+				"background-image"
+			],
+			[
+				"ease",
+				"ease-in-out"
+			],
+			[
+				"BACK",
+				"background"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"scrol",
+				"sp-scroll-up"
+			],
+			[
+				"bore",
+				"border-bottom"
+			],
+			[
+				"backgro",
+				"background-position"
+			],
+			[
+				"cri",
+				"script"
+			],
+			[
+				"re",
+				"red"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp64/www/bootstrap-3.4.1-dist/css/bootstrap.min.css",
+		"/C/wamp64/www/bootstrap-3.4.1-dist/css/bootstrap.css",
+		"/C/Users/ProBook 430/AppData/Local/Temp/Rar$DIa0.290/bootstrap.css",
+		"/C/wamp64/www/LMS/images/EducationWeb_files/(322) Create Circle Progress Bar Use Only SVG and CSS _ progress bar with percentage - YouTube.html",
+		"/C/wamp64/www/home/style.css",
+		"/C/wamp64/www/home/fonts/glyphicons-halflings-regular.eot",
+		"/C/wamp64/www/home/css/bootstrap.css",
+		"/C/wamp64/www/home/My Project/index.html",
+		"/C/wamp64/www/home/home.html",
+		"/D/bb/my web project_files/style.css",
+		"/D/bb/my web project.html",
+		"/C/wamp64/www/LMS/uppermain section.html",
+		"/C/wamp64/www/LMS/index.html",
+		"/C/wamp64/www/LMS/style.css",
+		"/C/wamp64/www/home/services.html",
+		"/C/Users/ProBook 430/Desktop/jiji/index.html",
+		"/C/Users/ProBook 430/Desktop/jiji/style.css",
+		"/C/wamp64/www/LMS/jquery.html",
+		"/C/New folder/New folder/style.css",
+		"/C/wamp64/www/homepage/rr/style.css",
+		"/C/wamp64/www/homepage/rr/slides.html",
+		"/C/wamp64/www/LMS/slides..html",
+		"/C/wamp64/www/LMS/slides.html",
+		"/C/wamp64/www/LMS/javascript.js",
+		"/C/Users/ProBook 430/Documents/jquery.html",
+		"/C/wamp64/www/LMS/lowersection.html",
+		"/C/Users/ProBook 430/Desktop/GG/style.css",
+		"/C/Users/ProBook 430/Desktop/GG/pp.html",
+		"/C/wamp64/www/calculator/site/index.html",
+		"/C/wamp64/www/calculator/sifuna.html",
+		"/C/wamp64/www/LMS/images/EducationWeb_files/style.css",
+		"/C/wamp64/www/index.html",
+		"/C/wamp64/www/LMS/images/EducationWeb.html",
+		"/C/wamp64/www/style.css",
+		"/C/wamp64/www/head section.html",
+		"/C/wamp64/www/LMS/images/icons.html",
+		"/C/wamp64/www/LMS/doo/search.index.html",
+		"/C/wamp64/www/LMS/doo/style.css",
+		"/C/wamp64/www/LMS/doo/index.html",
+		"/C/wamp64/www/LMS/doo/searchd.html",
+		"/C/wamp64/www/LMS/search.index",
+		"/C/wamp64/www/homepage/Personal Profile.html",
+		"/C/wamp64/www/LMS/headsection.html/style.css",
+		"/C/wamp64/www/LMS/headsection.html/headsection.html",
+		"/C/wamp64/www/LMS/headsection.html/index.html",
+		"/C/wamp64/www/LMS/my project/index.html",
+		"/C/wamp64/www/LMS/my project/style.css",
+		"/C/wamp64/www/LMS/header.html",
+		"/C/wamp64/www/LMS/html.index.html",
+		"/C/wamp64/www/LMS/headersection.html",
+		"/C/Users/ProBook 430/Downloads/style.css",
+		"/C/wamp64/www/my project/headersection.html",
+		"/C/wamp64/www/LMS/my project/headersection.html",
+		"/C/Users/ProBook 430/Desktop/New folder (3)/New folder (2)/project 1.html",
+		"/C/wamp64/www/MyWebPage/style.css",
+		"/C/wamp64/www/LMS/daytime.html",
+		"/C/wamp64/www/LMS/scripts.js",
+		"/C/wamp64/www/LMS/index.css.css",
+		"/C/wamp64/www/Website/index.css",
+		"/C/wamp64/www/MyWebPage/Profile Details.html",
+		"/C/wamp64/www/MyWebPage/Profile.css",
+		"/C/wamp64/www/LMS/index.css",
+		"/C/wamp64/www/codes/style.css",
+		"/C/wamp64/www/codes/index.html",
+		"/C/Users/ProBook 430/Desktop/Personal Profile.html",
+		"/C/Users/ProBook 430/Desktop/calculator.html",
+		"/C/wamp64/www/images/EducationWeb.html",
+		"/C/wamp64/www/LMS.t/project.html",
+		"/C/wamp64/www/LMS.t/project 1.html",
+		"/C/wamp64/www/homepage/style.css",
+		"/C/Users/ProBook 430/Documents/project 1.html",
+		"/C/wamp64/www/homepage/project2.html",
+		"/C/wamp64/www/calculator/project 1.html",
+		"/C/wamp64/www/calculator/style.css",
+		"/D/project.html",
+		"/C/wamp64/www/calculator/index.html",
+		"/C/wamp64/www/My homepage/project2.html",
+		"/C/wamp64/www/My homepage/style.css",
+		"/C/wamp64/www/My homepage/project.html",
+		"/C/wamp64/www/calculator/click.html",
+		"/C/wamp64/www/Website/Contact.html",
+		"/C/wamp64/www/Website/about.html",
+		"/C/wamp64/www/calculator/services.html",
+		"/C/wamp64/www/calculator/home.html",
+		"/C/wamp64/www/calculator/description.html",
+		"/D/LMS/project.html",
+		"/C/wamp64/www/calculator/calculator.html",
+		"/C/Users/ProBook 430/Desktop/rr/index.html",
+		"/C/New folder/New folder/index.js",
+		"/C/Users/ProBook 430/Desktop/rr/style.css",
+		"/C/Users/ProBook 430/Desktop/rr/script.js",
+		"/C/wamp64/www/MyWebPage/index.html",
+		"/C/Users/ProBook 430/Desktop/rr/index.js",
+		"/C/wamp64/www/Website/index.html",
+		"/C/wamp64/www/Web/index.html",
+		"/C/Users/ProBook 430/Desktop/Website/index.html",
+		"/D/scrip.html",
+		"/C/wamp64/www/MyWebPage/index.Js",
+		"/C/Users/ProBook 430/Desktop/MyWebPage/index.javascript",
+		"/C/wamp64/www/MyWebPage/MY STYLES",
+		"/C/Users/ProBook 430/Downloads/Curriculum vitae.html",
+		"/C/Users/ProBook 430/Desktop/My web page/style.css",
+		"/C/Users/ProBook 430/Desktop/My web page/Personal Details.html",
+		"/C/Users/ProBook 430/Desktop/Personal  Details.html",
+		"/C/wamp64/www/Website/css.html",
+		"/C/wamp64/www/Website/style.css",
+		"/C/Users/ProBook 430/Documents/style.css",
+		"/C/Users/ProBook 430/Desktop/Website/Wines and Spirits.html",
+		"/C/Users/ProBook 430/Desktop/Website/Contact.html",
+		"/C/Users/ProBook 430/Desktop/Website/Upcoming Movies.html",
+		"/C/Users/ProBook 430/Desktop/Website/LOGO.txt",
+		"/C/Users/ProBook 430/Desktop/Website/Logo.jpg",
+		"/C/Users/ProBook 430/Documents/New folder/index.html",
+		"/C/Users/ProBook 430/Documents/New folder/index.html.txt",
+		"/C/Users/ProBook 430/Desktop/Body.html",
+		"/C/Users/ProBook 430/Desktop/Warnerbros.html",
+		"/C/Users/ProBook 430/Desktop/students.htnl",
+		"/C/Users/ProBook 430/Documents/Juma.html",
+		"/C/Users/ProBook 430/Desktop/sammyEnos.html",
+		"/C/Program Files/Sublime Text/My Personal information"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 124.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
